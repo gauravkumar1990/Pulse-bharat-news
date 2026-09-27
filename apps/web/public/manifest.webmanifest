@@ -1,0 +1,10 @@
+{
+  "name": "Pulse Gujarat Offline News",
+  "short_name": "Pulse Gujarat",
+  "start_url": "/Pulse-bharat-news/",
+  "scope": "/Pulse-bharat-news/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c61f2b",
+  "description": "Offline-first Gujarati news demo"
+}
